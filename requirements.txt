@@ -1,0 +1,10 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+Pillow
+gdown
+imbalanced-learn==0.13.0
